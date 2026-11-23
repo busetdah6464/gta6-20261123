@@ -27,3 +27,5 @@ files (`game/index.html` and its ES modules) and runs offline.
 
 `main.ts` (Node 22, standard library only) copies `game/` and `screenshots/` to
 `/output` and writes `/output/dossier.json` with the vendored make.fun library.
+
+Note: the four screenshots in screenshots/ are real frames of this game running in a browser (see shots.json for the scenes).

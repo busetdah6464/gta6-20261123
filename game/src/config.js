@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — every tuning number, colour and story beat in one place.
 // The city is a 720 x 720 unit coastal grid: roads every 90 units, the beach and
 // the sea on the east edge, the marina in the south-east, the hills in the north-west.

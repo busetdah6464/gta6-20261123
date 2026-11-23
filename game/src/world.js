@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — the rules and state, with no drawing and no browser in it.
 // The player walks or drives a coastal city, steals cars, runs five story missions,
 // earns cash and respect, and draws the Azure Cove Police Department when they

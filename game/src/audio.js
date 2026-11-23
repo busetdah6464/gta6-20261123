@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — procedural sound, no audio files: three tiny radio stations built
 // from WebAudio oscillators, plus engine hum, siren, gunshot, crash and pickup
 // blips. Everything is guarded so a browser without audio still plays silently.

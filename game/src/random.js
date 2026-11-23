@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Seeded random numbers (mulberry32) so the same seed always builds the same city,
 // the same traffic and the same screenshot scenes.
 

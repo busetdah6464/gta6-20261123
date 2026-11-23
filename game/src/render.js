@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — a small custom 3D renderer on a 2D canvas (no library, no network).
 // The camera chases the player, the city is projected with a perspective divide, and
 // boxes are painter-sorted by depth. The HUD, minimap, banners and menus are drawn

@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — boot and the one loop: input is read every frame, the world
 // advances in fixed 1/60 s steps, and the renderer paints what is there. The game
 // moves between title, play, paused, busted/wasted and mission-complete screens,

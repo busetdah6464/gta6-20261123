@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — keyboard and mouse input. Held keys steer and drive; one-shot
 // presses (interact, shoot, pause, radio, confirm) are queued as flags and taken
 // once by the loop, so a press between two frames is never lost or counted twice.

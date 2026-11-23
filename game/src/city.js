@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove itself: a deterministic coastal city built from one seeded stream.
 // Roads form a grid; each block between four roads holds 1-4 buildings; the east edge
 // is sand and sea; palms line the beach road and the marina; parked cars wait on kerbs.

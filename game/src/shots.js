@@ -1,3 +1,4 @@
+// Witnessed rewrite, 23 Nov 2026: this file's final content was last touched by the recorded agent session.
 // Azure Cove — the screenshot scenes behind ?shot=start|play|chase|end.
 // Each one plays the real rules forward from a fresh world for a fixed number of
 // steps, steered by a grid autopilot (drive along the road grid, turn at
